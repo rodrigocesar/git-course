@@ -10,3 +10,5 @@ Thanks to all my students!
 Dont care abou the students.
 
 Adding title for stash changes.
+
+Exploring tags in Git.

@@ -16,3 +16,5 @@ adfadfafaf
 
 ## Copyright
 2014 Git training all rights reserved.
+
+Updating emergy fix after stash.

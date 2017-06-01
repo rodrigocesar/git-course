@@ -15,3 +15,4 @@ adfadfafaf
 >>>>>>> simple-changes
 
 ## Copyright
+2014 Git training all rights reserved.
